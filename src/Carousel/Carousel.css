@@ -1,0 +1,95 @@
+.carouselOut {
+    background-color: #EDEDED;
+}
+
+.carouselIn {
+    margin-right: 9%;
+    margin-left: 9%;
+}
+
+.carouseleHeader {
+    justify-content: space-between;
+    padding-top: 80px;
+    margin-bottom: 50px;
+}
+
+.arrowTwo {
+    height: 50%;
+    width: 80px;
+    justify-content: space-between;
+}
+
+.carouselMein {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.indicatorOut {
+    margin-top: 30px;
+    padding-bottom: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.indicatorIn {
+    width: 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.indicators {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+}
+
+.indicatorsAktiv {
+    background-color: #333333;
+}
+
+.cart {
+    width: 375px;
+    height: 480px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+.imgCart {
+    height: 325px;
+    width: 325px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.cartFooter {
+    width: 325px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cartH {
+    margin-top: 0;
+    font-family: 'Ubuntu';
+    font-weight: 400;
+    font-size: 22px;
+    color: #1F1F1F;
+}
+
+.cartTxt {
+    font-family: 'Ubuntu';
+    font-weight: 400;
+    font-size: 15px;
+    color: #444444;
+}
+
+.cartButton {
+    width: 70px;
+    height: 70px;
+}

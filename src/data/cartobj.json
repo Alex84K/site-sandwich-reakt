@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Фильтры и масла",
+        "cost": "От 500 $",
+        "image": "./image/slide1.jpg",
+        "color": "red"
+    },
+    {
+        "title": "Запчасти для ДВС",
+        "cost": "От 1500 $",
+        "image": "./image/slide2.jpg",
+        "color": "gray"
+    },
+    {
+        "title": "Запчасти для кузова",
+        "cost": "От 2500 $",
+        "image": "./image/slide3.jpg",
+        "color": "green"
+    },
+    {
+        "title": "Запчасти для кузова",
+        "cost": "От 1500 $",
+        "image": "./image/slide2.jpg",
+        "color": "brown"
+    },
+    {
+        "title": "Фильтры и масла",
+        "cost": "От 500 $",
+        "image": "./image/slide3.jpg",
+        "color": "violet"
+    },
+    {
+        "title": "Запчасти для ДВС",
+        "cost": "От 2500 $",
+        "image": "./image/slide1.jpg",
+        "color": "aqua"
+    }
+]
