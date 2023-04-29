@@ -1,0 +1,68 @@
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 25px;
+    margin-top: 40px;
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+.logoS {
+    width: 70px;
+    height: 25px;
+}
+
+
+.menu {
+    Width: 26px;
+    Height: 14.72px;
+}
+
+
+.menuL {
+    width: 194px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menuMidl {
+    width: 246px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menuR {
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cartHeader {
+    width: 20px;
+    height: 20px;
+    align-items: center;
+}
+
+.pMenu {
+    font-family: 'Ubuntu';
+    font-style: Light;
+    font-size: 15px;
+    line-height: 21px, 140%;
+    color: #444444;
+    opacity: .8;
+}
+
+/*-----------*/
+
+
+@media screen and (max-width: 1220px) {
+
+    .menuL,
+    .menuR {
+        display: none;
+    }
+
+}

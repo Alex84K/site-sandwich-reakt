@@ -1,0 +1,78 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    background-color: #F5F5F5;
+}
+
+.textForForm {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 9%;
+    margin-right: 9%;
+    margin-bottom: 40px;
+    margin-top: 110px;
+}
+
+.pForm {
+    width: 485px;
+}
+
+.formIn {
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+.inputRow {
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 245px;
+}
+
+input {
+    width: 285px;
+    height: 70px;
+    border-style: solid;
+}
+
+input[type="text"] {
+    font-family: inherit;
+    /* 1 */
+    font-size: inherit;
+    line-height: inherit;
+    margin: 0;
+}
+
+.text-field {
+    margin-bottom: 1rem;
+}
+
+.text-field__input {
+    display: block;
+    text-align: center;
+
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 2px solid #505050;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.formButton {
+    width: 285px;
+    height: 70px;
+    background-color: #505050;
+    cursor: pointer;
+    outline: none !important
+}
+
+button:focus {
+    outline: none !important
+}

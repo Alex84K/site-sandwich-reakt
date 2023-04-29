@@ -1,0 +1,60 @@
+.mein {
+    height: 700px;
+    display: flex;
+    margin-left: 9%;
+    margin-right: 9%;
+    margin-top: 60px;
+    background-color: #F5F5F5;
+}
+
+.txtMein {
+    font-family: 'Ubuntu';
+    font-style: Light;
+    font-size: 19px;
+    line-height: 140%;
+    word-wrap: break-word;
+    color: #444444;
+}
+
+.txtOne {
+    width: 65%;
+}
+
+.txtButton {
+    color: #FFFDFD;
+}
+
+.buttonBig {
+    width: 236px;
+    height: 71px;
+    background-color: #505050;
+    margin-top: 50px;
+    border-style: none;
+}
+
+.meinL {
+    width: 50%;
+    margin-top: 0;
+}
+
+.txtOne {
+    margin-top: 30px;
+}
+
+.meinR {
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+}
+
+.meinImg1 {
+    height: 550px;
+    width: 462px;
+}
+
+.meinImg2 {
+    width: 282px;
+    height: 342px;
+    margin-top: 280px;
+    margin-left: -25%;
+}

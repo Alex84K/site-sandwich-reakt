@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1220px) {
+    .main {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .headerDesctop {
+        display: none;
+    }
+
+    .HomePageDesctop {
+        display: none;
+    }
+
+}
